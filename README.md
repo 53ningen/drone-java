@@ -4,5 +4,3 @@ drone-java
 ====
 
 droneを使うテスト
-テスト
-
